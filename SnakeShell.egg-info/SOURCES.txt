@@ -1,0 +1,16 @@
+README.md
+Setup.py
+setup.py
+SnakeShell.egg-info/PKG-INFO
+SnakeShell.egg-info/SOURCES.txt
+SnakeShell.egg-info/dependency_links.txt
+SnakeShell.egg-info/requires.txt
+SnakeShell.egg-info/top_level.txt
+snakeshell/Code.py
+snakeshell/Command.py
+snakeshell/__init__.py
+snakeshell/test_Package.py
+snakeshell/package/Package.py
+snakeshell/package/__init__.py
+snakeshell/utils/FunCommands.py
+snakeshell/utils/__init__.py

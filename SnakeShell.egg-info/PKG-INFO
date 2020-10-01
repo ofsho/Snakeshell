@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: SnakeShell
+Version: 0.0.0.4b2
+Summary: Shell script commands in Python
+Home-page: UNKNOWN
+Author: Ofsho
+License: UNKNOWN
+Description: # SnakeShell
+        A Python Shell Script command library including a lot of shell commands.
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
