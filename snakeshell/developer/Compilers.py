@@ -1,6 +1,4 @@
 import os
-import platform
-import distro
 
 def GccCompile(file, fileout):
     cmd = 'gcc -o '
