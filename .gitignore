@@ -3,6 +3,7 @@ SnakeShell.egg-info/
 Dist/
 .idea
 venv
+__pycache__
 
 # files
 MANIFEST
