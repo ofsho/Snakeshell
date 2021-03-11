@@ -3,3 +3,6 @@ SnakeShell.egg-info/
 Dist/
 .idea
 venv
+
+# files
+MANIFEST
